@@ -1,0 +1,6 @@
+{
+  "components": {
+    "Button": "a button that has a very cool hover effect",
+    "Input": "a input with a pixel style"
+  }
+}

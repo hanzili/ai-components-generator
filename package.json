@@ -1,0 +1,29 @@
+{
+  "name": "ai-component-generator",
+  "version": "1.0.0",
+  "description": "AI-powered React component generator and iterator",
+  "main": "bin/ai-component.js",
+  "bin": {
+    "ai-component": "./bin/ai-component.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node bin/ai-component.js"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "generator",
+    "ai",
+    "openai"
+  ],
+  "author": "hanzili",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "dotenv": "^16.0.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^10.1.8",
+    "openai": "^4.0.0"
+  }
+}
