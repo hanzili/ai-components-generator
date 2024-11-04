@@ -1,6 +1,8 @@
 # AI Component Generator
 
 This project is an AI-powered React component generator that uses OpenAI's GPT model to create and modify React components based on natural language prompts.
+Inspired by this [tweet](https://x.com/jamespotterdev/status/1830181400408133893)
+![Inspiration](asset/inspiration.png)
 
 ## Features
 
